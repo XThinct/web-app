@@ -20,3 +20,8 @@ Kelas   :   PBKK D<br>
 
 `View Edited New Page`<br>
 ![Screenshot (1391)](https://github.com/user-attachments/assets/43dac0c9-459a-4493-8283-a8f9f0ed3661)
+
+## Database Acess
+
+`Connected to MySQL`<br>
+<img width="500" alt="bukti data-access" src="https://github.com/user-attachments/assets/1ab5e15b-f450-482d-a8dd-ba8ec68944d1">
